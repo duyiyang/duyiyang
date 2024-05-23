@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with ... cats
 - 💬 Ask me about ... cats
 - 📫 How to reach me: share your cats with me
-- 😄 Pronouns: ... it/its/他
+- 😄 Pronouns: ... it/its/他/chị/em/anh/bà/bác/ông/tao/bố/tía/cô/cháu/mày/mợ 
 - ⚡ Fun fact: ... meow
 
 <!--
