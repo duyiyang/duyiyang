@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... it/its/他
 - ⚡ Fun fact: ... meow
 -->
-![pic](pic.png)
+![pic](duyiyang/pic.png)
